@@ -1,4 +1,8 @@
 ### Hi there 👋
+Dream of being a front-end web developer.
+Still have a long way to go... 
+
+
 
 <!--
 **Win-n-ie/Win-n-ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
