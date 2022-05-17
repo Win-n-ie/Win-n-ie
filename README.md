@@ -1,5 +1,6 @@
 ### Hi there 👋
 Dream of being a front-end web developer.
+Try to take my first step in April 2022 :footprints:
 Still have a long way to go... 
 
 
